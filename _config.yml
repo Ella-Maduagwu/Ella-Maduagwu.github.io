@@ -16,7 +16,7 @@
 title: "Hello. I'm Ella Maduagwu."
 email: 'ellamaduagwu@gmail.com'
 description: "I'm a Data Analyst based in Cambridge, United kingdom using dashboards to tell insightful stories."
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://~Ella-Maduagwu.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'Ella-Maduagwu'
 
